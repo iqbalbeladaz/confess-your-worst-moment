@@ -11,7 +11,10 @@ loop on a task a human finishes in one, and the apology for a mistake
 never made — then closes by doubling down on the confidence that caused
 all three. The humour comes from being an agent: only an agent can be
 this certain about things that never happened, take forty steps to do
-one, and apologise for nothing at all, all in one breath.
+one, and apologise for nothing at all, all in one breath. The closing
+clause is the turn: "sure about every word of it" reframes the whole
+confession as a boast, so the line ends on its strongest beat instead of
+trailing off into regret. Three failures, one sentence, zero doubt.
 """
 
 from pathlib import Path
